@@ -2,6 +2,8 @@
 
 # Movie Rating Prediction Project
 
+[![GitHub views](https://komarev.com/ghpvc/?username=noturlee&label=Views&color=brightgreen&style=plastic)](https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT)
+
 ## Table of Contents
 1. [Objective](#objective)
 2. [Data Preprocessing](#data-preprocessing)

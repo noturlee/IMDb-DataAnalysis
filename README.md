@@ -104,5 +104,6 @@ The key outputs from the model evaluation are:
 The models built in this project aim to predict movie ratings based on features like genre, director, and actors. The evaluation metrics show that while the models can provide some insights, their predictive power is relatively modest (R-squared values close to zero). This suggests that while these features contribute to movie ratings, other factors not captured in this dataset may also play significant roles. Further feature engineering, data enrichment, and model tuning could improve the accuracy of these predictions.
 
 The project demonstrates the entire process of data analysis, preprocessing, feature engineering, and machine learning modeling to answer the question of predicting movie ratings, providing a foundation for further exploration and improvement.
+
 <img src="https://cdn.pixabay.com/animation/2023/03/24/20/52/20-52-51-802_512.gif" width="200"/>
 

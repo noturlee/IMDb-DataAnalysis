@@ -69,28 +69,34 @@ Models are fitted on the full training set and evaluated on the test set using m
 
 ## Visualizations
 The following visualizations are generated to provide insights into the model's performance and data characteristics:
-<p float="center">
-<img width="400" alt="Screenshot 2024-06-14 at 23 26 40" src="https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT/assets/100778149/5c2bb534-c756-4bf7-a527-c64c6e5e8767">
-<img width="380" alt="Screenshot 2024-06-14 at 23 28 01" src="https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT/assets/100778149/52190b2e-a589-42d6-b49f-684184e9a3e9">
-</p>
+
 
 ### Distribution of Movie Ratings
 A histogram showing the distribution of movie ratings in the dataset.
 
+<img width="400" alt="Screenshot 2024-06-14 at 23 26 40" src="https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT/assets/100778149/5c2bb534-c756-4bf7-a527-c64c6e5e8767">
+
+
 ### Correlation Matrix
 A heatmap showing the correlation between numeric features.
+
+<img width="380" alt="Screenshot 2024-06-14 at 23 28 01" src="https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT/assets/100778149/52190b2e-a589-42d6-b49f-684184e9a3e9">
 
 ### Comparison of R-squared Scores
 A bar plot comparing the cross-validated R-squared scores of different models.
 
+<img width="400" alt="Screenshot 2024-06-14 at 23 39 52" src="https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT/assets/100778149/06c2affb-586c-4742-bb1b-1e8cd6bb9b47">
+
 ### Actual vs. Predicted Ratings
 A scatter plot showing the relationship between actual and predicted ratings for the test set.
 
-### Feature Importance
-A bar plot showing the importance of different features for the Random Forest model.
+<img width="400" alt="Screenshot 2024-06-14 at 23 40 09" src="https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT/assets/100778149/295d5aa9-f12b-4169-9ad8-c95f3d9056d5">
 
 ### Residual Plot
 A scatter plot showing the residuals (errors) of the predicted ratings.
+
+<img width="400" alt="Screenshot 2024-06-14 at 23 40 14" src="https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT/assets/100778149/cdc99662-72e8-4200-8869-8532d0b943e0">
+
 
 ## Outputs
 The key outputs from the model evaluation are:

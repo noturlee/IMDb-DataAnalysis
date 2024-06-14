@@ -1,6 +1,6 @@
 <img src="Images/banner.gif"/>
 
-# Movie Rating Prediction Project
+# Movie Rating Prediction Model
 
 [![GitHub views](https://komarev.com/ghpvc/?username=noturlee&label=Views&color=brightgreen&style=plastic)](https://github.com/noturlee/IMDb-DataAnalysis-CODSOFT)
 
